@@ -1,0 +1,22 @@
+That makes a lot of sense. Instead of a secondhand or community-driven resale model like Depop or Grailed, you’re aiming for a premium, curated marketplace for smaller streetwear brands—giving them the same sleek UX and shopping experience as MyTheresa, Farfetch, and AboutYou, but without the barriers to entry those platforms have.
+
+Why This Concept Has Potential
+	•	Underserved Niche – Small streetwear brands don’t have a platform that gives them the polished feel of luxury marketplaces.
+	•	Higher Perceived Value – A well-designed, premium shopping experience makes brands look more desirable, leading to higher conversion rates and pricing potential.
+	•	Regional Focus = Less Competition – Instead of competing with global marketplaces, you can dominate a regional niche (e.g., Bulgaria/Balkan streetwear).
+	•	Brand Growth Opportunity – Many streetwear brands want to scale but lack the infrastructure. Your app could offer storefronts, order management, and exposure.
+
+Key Features to Consider
+	1.	Curated Brand Onboarding – To maintain a premium feel, you might need a vetting process (e.g., invite-only, application-based entry).
+	2.	Sleek Product Pages – High-quality imagery, immersive product descriptions, and smooth checkout flow.
+	3.	Seamless Payments & Logistics – Integration with Stripe, PayPal, or local payment gateways + potential partnerships with delivery services.
+	4.	Exclusive Drops & Preorders – Mimic the hype-driven model of big streetwear brands (think Supreme’s drop culture).
+	5.	Localized Focus – Keep it regional-first (e.g., Bulgaria/Balkans), so customers and brands feel it’s tailored for them.
+	6.	Mobile-First UX – Since your audience is already used to buying through Instagram/TikTok, the experience should feel native to mobile.
+
+Monetization Models to Explore
+	•	Commission-Based – Take a small % of each sale (like Farfetch).
+	•	Subscription for Brands – Offer a paid tier for extra exposure, marketing, or premium positioning.
+	•	Logistics Integration – Partner with a delivery company and take a cut from streamlined shipping solutions.
+
+This idea has huge potential, especially if you can make onboarding easy for brands while keeping the UX polished and premium for customers. If you need help sketching out a roadmap, branding ideas, or an MVP strategy, let me know! 🚀

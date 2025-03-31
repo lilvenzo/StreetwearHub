@@ -16,6 +16,7 @@ struct StreetwearHubApp: App {
         WindowGroup {
             ContentView()
                 .environmentObject(cartManager)
+                .preferredColorScheme(.light)
         }
     }
 }

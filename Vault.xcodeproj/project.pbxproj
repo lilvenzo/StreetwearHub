@@ -24,9 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5EEBA8F32D88C27F00099AE0 /* StreetwearHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StreetwearHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		5EEBA9052D88C28100099AE0 /* StreetwearHubTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StreetwearHubTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		5EEBA90F2D88C28100099AE0 /* StreetwearHubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StreetwearHubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EEBA8F32D88C27F00099AE0 /* Vault.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vault.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EEBA9052D88C28100099AE0 /* VaultTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VaultTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5EEBA90F2D88C28100099AE0 /* VaultUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VaultUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -85,9 +85,9 @@
 		5EEBA8F42D88C27F00099AE0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5EEBA8F32D88C27F00099AE0 /* StreetwearHub.app */,
-				5EEBA9052D88C28100099AE0 /* StreetwearHubTests.xctest */,
-				5EEBA90F2D88C28100099AE0 /* StreetwearHubUITests.xctest */,
+				5EEBA8F32D88C27F00099AE0 /* Vault.app */,
+				5EEBA9052D88C28100099AE0 /* VaultTests.xctest */,
+				5EEBA90F2D88C28100099AE0 /* VaultUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5EEBA8F22D88C27F00099AE0 /* StreetwearHub */ = {
+		5EEBA8F22D88C27F00099AE0 /* Vault */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5EEBA9192D88C28100099AE0 /* Build configuration list for PBXNativeTarget "StreetwearHub" */;
+			buildConfigurationList = 5EEBA9192D88C28100099AE0 /* Build configuration list for PBXNativeTarget "Vault" */;
 			buildPhases = (
 				5EEBA8EF2D88C27F00099AE0 /* Sources */,
 				5EEBA8F02D88C27F00099AE0 /* Frameworks */,
@@ -110,16 +110,16 @@
 			fileSystemSynchronizedGroups = (
 				5EEBA8F52D88C27F00099AE0 /* StreetwearHub */,
 			);
-			name = StreetwearHub;
+			name = Vault;
 			packageProductDependencies = (
 			);
 			productName = StreetwearHub;
-			productReference = 5EEBA8F32D88C27F00099AE0 /* StreetwearHub.app */;
+			productReference = 5EEBA8F32D88C27F00099AE0 /* Vault.app */;
 			productType = "com.apple.product-type.application";
 		};
-		5EEBA9042D88C28100099AE0 /* StreetwearHubTests */ = {
+		5EEBA9042D88C28100099AE0 /* VaultTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5EEBA91C2D88C28100099AE0 /* Build configuration list for PBXNativeTarget "StreetwearHubTests" */;
+			buildConfigurationList = 5EEBA91C2D88C28100099AE0 /* Build configuration list for PBXNativeTarget "VaultTests" */;
 			buildPhases = (
 				5EEBA9012D88C28100099AE0 /* Sources */,
 				5EEBA9022D88C28100099AE0 /* Frameworks */,
@@ -133,16 +133,16 @@
 			fileSystemSynchronizedGroups = (
 				5EEBA9082D88C28100099AE0 /* StreetwearHubTests */,
 			);
-			name = StreetwearHubTests;
+			name = VaultTests;
 			packageProductDependencies = (
 			);
 			productName = StreetwearHubTests;
-			productReference = 5EEBA9052D88C28100099AE0 /* StreetwearHubTests.xctest */;
+			productReference = 5EEBA9052D88C28100099AE0 /* VaultTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		5EEBA90E2D88C28100099AE0 /* StreetwearHubUITests */ = {
+		5EEBA90E2D88C28100099AE0 /* VaultUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5EEBA91F2D88C28100099AE0 /* Build configuration list for PBXNativeTarget "StreetwearHubUITests" */;
+			buildConfigurationList = 5EEBA91F2D88C28100099AE0 /* Build configuration list for PBXNativeTarget "VaultUITests" */;
 			buildPhases = (
 				5EEBA90B2D88C28100099AE0 /* Sources */,
 				5EEBA90C2D88C28100099AE0 /* Frameworks */,
@@ -156,11 +156,11 @@
 			fileSystemSynchronizedGroups = (
 				5EEBA9122D88C28100099AE0 /* StreetwearHubUITests */,
 			);
-			name = StreetwearHubUITests;
+			name = VaultUITests;
 			packageProductDependencies = (
 			);
 			productName = StreetwearHubUITests;
-			productReference = 5EEBA90F2D88C28100099AE0 /* StreetwearHubUITests.xctest */;
+			productReference = 5EEBA90F2D88C28100099AE0 /* VaultUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 5EEBA8EE2D88C27F00099AE0 /* Build configuration list for PBXProject "StreetwearHub" */;
+			buildConfigurationList = 5EEBA8EE2D88C27F00099AE0 /* Build configuration list for PBXProject "Vault" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5EEBA8F22D88C27F00099AE0 /* StreetwearHub */,
-				5EEBA9042D88C28100099AE0 /* StreetwearHubTests */,
-				5EEBA90E2D88C28100099AE0 /* StreetwearHubUITests */,
+				5EEBA8F22D88C27F00099AE0 /* Vault */,
+				5EEBA9042D88C28100099AE0 /* VaultTests */,
+				5EEBA90E2D88C28100099AE0 /* VaultUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		5EEBA9072D88C28100099AE0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5EEBA8F22D88C27F00099AE0 /* StreetwearHub */;
+			target = 5EEBA8F22D88C27F00099AE0 /* Vault */;
 			targetProxy = 5EEBA9062D88C28100099AE0 /* PBXContainerItemProxy */;
 		};
 		5EEBA9112D88C28100099AE0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 5EEBA8F22D88C27F00099AE0 /* StreetwearHub */;
+			target = 5EEBA8F22D88C27F00099AE0 /* Vault */;
 			targetProxy = 5EEBA9102D88C28100099AE0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -461,7 +461,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreetwearHub.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StreetwearHub";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Vault.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Vault";
 			};
 			name = Debug;
 		};
@@ -480,7 +480,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/StreetwearHub.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/StreetwearHub";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Vault.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Vault";
 			};
 			name = Release;
 		};
@@ -521,7 +521,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5EEBA8EE2D88C27F00099AE0 /* Build configuration list for PBXProject "StreetwearHub" */ = {
+		5EEBA8EE2D88C27F00099AE0 /* Build configuration list for PBXProject "Vault" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5EEBA9172D88C28100099AE0 /* Debug */,
@@ -530,7 +530,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5EEBA9192D88C28100099AE0 /* Build configuration list for PBXNativeTarget "StreetwearHub" */ = {
+		5EEBA9192D88C28100099AE0 /* Build configuration list for PBXNativeTarget "Vault" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5EEBA91A2D88C28100099AE0 /* Debug */,
@@ -539,7 +539,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5EEBA91C2D88C28100099AE0 /* Build configuration list for PBXNativeTarget "StreetwearHubTests" */ = {
+		5EEBA91C2D88C28100099AE0 /* Build configuration list for PBXNativeTarget "VaultTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5EEBA91D2D88C28100099AE0 /* Debug */,
@@ -548,7 +548,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5EEBA91F2D88C28100099AE0 /* Build configuration list for PBXNativeTarget "StreetwearHubUITests" */ = {
+		5EEBA91F2D88C28100099AE0 /* Build configuration list for PBXNativeTarget "VaultUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				5EEBA9202D88C28100099AE0 /* Debug */,
